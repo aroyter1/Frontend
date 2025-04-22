@@ -7,6 +7,7 @@
     "skipLibCheck": true,
 
     /* Bundler mode */
+    "build": "npx run-p type-check build-only",
     "moduleResolution": "bundler",
     "allowImportingTsExtensions": true,
     "isolatedModules": true,
