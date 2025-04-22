@@ -1,1 +1,0 @@
-type ToggleEvent = Event; 
