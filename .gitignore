@@ -26,3 +26,6 @@ dist-ssr
 dist/
 .tmp/
 package-lock.json
+dist/
+dist
+node_modules
